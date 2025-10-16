@@ -32,8 +32,8 @@ Algunos principios clave que valoro son:
 ---
 
 ### 🌐 Encuéntrame en
-- 💼 [GitHub](https://github.com/TU-USUARIO-AQUI)
-- 📧 **santiago.zamora@example.com** *(opcional)*
+- 💼 [GitHub]https://github.com/santicrak2017)
+- 📧 **szamorag@unal.edu.co* *(opcional)*
 
 ---
 
