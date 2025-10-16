@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Santiago Zamora**
 
-<!--
-**santicrak2017/santicrak2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador en formación | Apasionado por la Ingeniería de Software
 
-Here are some ideas to get you started:
+Soy un estudiante y entusiasta de la programación que disfruta crear soluciones eficientes y bien estructuradas. Me interesa el diseño de software, la optimización del código y el aprendizaje constante de nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Lenguajes que he aprendido
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="50" height="50" alt="Assembly" />
+</p>
+
+---
+
+### 🧠 Lo que considero importante en Ingeniería del Software
+
+La ingeniería del software no solo trata de escribir código, sino de **crear soluciones sostenibles y escalables**.  
+Algunos principios clave que valoro son:
+
+- 🧩 **Modularidad:** dividir el sistema en partes comprensibles y reutilizables.  
+- 🧪 **Pruebas y calidad:** garantizar que el software funcione correctamente antes de desplegarlo.  
+- 🔄 **Mantenimiento:** escribir código claro y documentado para facilitar futuras mejoras.  
+- 🤝 **Trabajo en equipo:** la comunicación y la colaboración son esenciales para el éxito de cualquier proyecto.  
+
+> “El buen software no se trata solo de hacerlo funcionar, sino de hacerlo bien y mantenerlo bien.”
+
+---
+
+### 🌐 Encuéntrame en
+- 💼 [GitHub](https://github.com/TU-USUARIO-AQUI)
+- 📧 **santiago.zamora@example.com** *(opcional)*
+
+---
+
+⭐ *Gracias por visitar mi perfil. Siempre abierto a aprender y colaborar en nuevos proyectos.*
