@@ -27,7 +27,6 @@ Algunos principios clave que valoro son:
 - 🔄 **Mantenimiento:** escribir código claro y documentado para facilitar futuras mejoras.  
 - 🤝 **Trabajo en equipo:** la comunicación y la colaboración son esenciales para el éxito de cualquier proyecto.  
 
-> “El buen software no se trata solo de hacerlo funcionar, sino de hacerlo bien y mantenerlo bien.”
 
 ---
 
